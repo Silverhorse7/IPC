@@ -95,4 +95,4 @@ Our research lays the groundwork for future advancements in Computer Science edu
 - Omar Yasser (20201701195@cis.asu.edu.eg)
 - Martina Angelos (20201700624@cis.asu.edu.eg)
 
-> **For more Information, please contact us via email or check the Documentation [here](./IPC%20Documentation.docx) for more details.**
+> **For more information or getting access to the dataset, please contact us via email or check the Documentation [here](./IPC%20Documentation.docx) for more details.**
