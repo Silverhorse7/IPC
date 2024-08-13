@@ -1,0 +1,16 @@
+langchain
+langchain-mistralai
+langchain-community
+faiss-cpu
+sentence-transformers
+langchain_huggingface
+chromadb
+google-generativeai
+requests
+mistralai
+json
+random
+string
+os
+langchain.embeddings
+langchain.vectorstores
